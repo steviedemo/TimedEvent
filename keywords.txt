@@ -1,0 +1,6 @@
+TimedEvent	KEYWORD1
+
+attachEventCallback		KEYWORD2
+setEventInterval		KEYWORD2
+getEventInterval		KEYWORD2
+process					KEYWORD2
